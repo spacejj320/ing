@@ -1,0 +1,29 @@
+body{
+    background-color: #F6D140;
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+    
+}
+section{
+    min-height: 100vh;
+}
+.logo-img{
+    height: auto;
+    width: 200px;
+    border-radius: 5px;
+}
+.wrap{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title-h1{
+    font-size: 50px;
+    color: #161616;
+}
+p{
+    font-weight: 600;
+    font-size: 20px;
+}
